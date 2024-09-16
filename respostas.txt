@@ -1,0 +1,2 @@
+oi=olá tudo bem como vai?
+io=Não entendi.
